@@ -2,7 +2,10 @@
 Convolutional Neural Networks (CNN)
 A Convolutional Neural Network (CNN/ConvNet) is a specialized type of deep neural network primarily used for analyzing visual data, such as images or 
 videos. 
+
+
 ▪ Unlike traditional neural networks that rely on general matrix multiplication, CNNs utilize convolution operations in at least one of their layers.
+
 
 ▪ Convolution, in the context of CNNs, refers to the process of applying a set of filters or kernels to the input image. Each filter detects specific patterns or 
 features, such as edges or textures, by convolving it across the image. 
