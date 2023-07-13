@@ -1,4 +1,18 @@
-# CONQUEERING MNIST FASHION USING CNNs AND COMPUTER VISION
+# CONQUERING  FASHION MNIST WITH CNNs USING COMPUTER VISION
+
+
+Fashion MNIST is a widely used benchmark dataset in the field of computer vision, specifically for image classification tasks. It serves as a replacement for the traditional MNIST dataset, which consists of grayscale images of handwritten digits. The FashionMNIST dataset consists of 60,000 training images and 10,000 testing images, divided into 10 different categories of fashion items. This abstract focuses on the application of Convolutional Neural Networks (CNNs) for the classification of FashionMNIST dataset.
+
+
+In this study, we propose a CNN architecture to classify the FashionMNIST dataset. The proposed model consists of multiple convolutional layers, pooling layers, and fully connected layers. We utilize the rectified linear activation function (ReLU) for the convolutional layers and softmax activation for the final output layer to obtain class probabilities.
+
+
+To train and evaluate the CNN model, we split the FashionMNIST dataset into training and testing sets. We preprocess the images by normalizing pixel values and converting them into a suitable format for training the CNN. The model is trained using the training set, and its performance is evaluated using the testing set. We utilize popular optimization techniques such as stochastic gradient descent (SGD) with backpropagation to update the model weights and minimize the loss function during training.
+
+
+The application of CNNs on the FashionMNIST dataset not only provides accurate classification of fashion items but also opens doors for various practical applications such as image search, recommendation systems, and virtual try-on experiences in the fashion industry. The proposed CNN architecture serves as a foundation for further research and exploration in the field of computer vision and deep learning, aiming to improve the accuracy and efficiency of image classification tasks.
+
+
 Convolutional Neural Networks (CNN)
 A Convolutional Neural Network (CNN/ConvNet) is a specialized type of deep neural network primarily used for analyzing visual data, such as images or 
 videos. 
