@@ -44,3 +44,11 @@ objects while providing bounding box coordinates for each detected object.
 detecting and classifying objects but also providing pixel-level segmentation masks that separate each object instance from its surroundings.
 
 
+
+
+
+Dataset size is more than 25 mb which can't be uploaded in github
+here, we are providing links to download datasets
+link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
+
