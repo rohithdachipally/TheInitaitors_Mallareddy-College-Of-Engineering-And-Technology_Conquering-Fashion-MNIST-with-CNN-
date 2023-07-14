@@ -1,1 +1,5 @@
 
+
+dataset size is more than 25 mb which can't be uploaded in github
+here, we are providing links to download datasets
+link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
